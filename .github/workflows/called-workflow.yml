@@ -3,7 +3,7 @@ on:
  workflow_call:
    inputs:
      name: 
-       descrption: "Input Description"
+       description: "Input Description"
        type: string
        default: 'DINESH'
        required: false
